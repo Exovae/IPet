@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\IPet\IPet\bin\Debug\net6.0\IPet.exe
+C:\Users\ellio\source\repos\IPet\IPet\bin\Debug\net6.0\IPet.deps.json
+C:\Users\ellio\source\repos\IPet\IPet\bin\Debug\net6.0\IPet.runtimeconfig.json
+C:\Users\ellio\source\repos\IPet\IPet\bin\Debug\net6.0\IPet.dll
+C:\Users\ellio\source\repos\IPet\IPet\bin\Debug\net6.0\IPet.pdb
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.AssemblyInfo.cs
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.dll
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\refint\IPet.dll
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.pdb
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\IPet.genruntimeconfig.cache
+C:\Users\ellio\source\repos\IPet\IPet\obj\Debug\net6.0\ref\IPet.dll
